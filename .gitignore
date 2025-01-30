@@ -1,3 +1,4 @@
 #arquivos de conexão com banco de dados
 .env
 .ipynb_checkpoints/
+__pycache__/

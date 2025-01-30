@@ -6,6 +6,7 @@ SUMARIO
 
             produto.produto - Código de referência do produto.
             produto.pronome - Descrição do nome do produto.
+            produto.grupo - Grupo de classificação do produto (Código da família de produtos).
 ----------------------------------------------------------------------
 
         estrutur: Armazena a ligação hierárquica entre produto e itens que o compõe.
